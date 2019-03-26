@@ -15,26 +15,26 @@ https://www.kaggle.com/wendykan/lending-club-loan-data
    , Understanding my client
    , Exploratory data analysis
    <br>
-<b> Data preparation </b>
-   , Data cleansing
+<b> Data preparation:</b>
+    Data cleansing
    , Pre-processing
    , Feature engineering vs Automated Feature Engineering (Feature Tools)
    <br>
-<b> Models</b>
-   , Regression
+<b> Models:</b>
+    Regression
    , Random forest
    , Neural Networks
    <br>
-<b> Cross Validation </b>
-   , 5-fold cross validation
+<b> Cross Validation: </b>
+   5-fold cross validation
    <br>
-<b> Hyper-parameter optimization </b>
-   , Regression: L1, L2, Elasticnet regularization 
+<b> Hyper-parameter optimization: </b>
+    Regression: L1, L2, Elasticnet regularization 
    -Neural networks: Change epochs, optimizers, learning rate
    , Random forest: No of trees, Tree depth
    <br>
-<b> AutoML </b>
-   , TPOT 
+<b> AutoML: </b>
+   TPOT 
    , AutSKLearn
    , H2o.ai
    <br>
