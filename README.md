@@ -44,3 +44,6 @@ https://www.kaggle.com/wendykan/lending-club-loan-data
 <br>
 ### Google Claat: 
 https://codelabs-preview.appspot.com/?file_id=1z-wMfffKigA9fq35taRTpSKoXeRIOf76y6PBzw7_Ufs#1
+
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details
